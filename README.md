@@ -1,7 +1,7 @@
 # About Me
 
 Hi, my name is Jorge Arango `@El-Jorgex-Pa`, I´m currently studying `Electronic Engineering` at the `National University of Colombia`
-while learning `Java` and `Python`. I´ve been working in [First-Step](https://github.com/NicolasHinestroza/First-Step) , a `Django` 
+while learning `Java` and `Python`. I´ve been working in [First-Step](https://firststep.onrender.com/) , a `Django` 
 project that I have with some colleagues. 
 
 I'm a math lover, but I´m also aware that we can´t divide our human condition from our mathematical-logical one, I´m interested in looking ways to 
