@@ -24,6 +24,6 @@ Is more realistic to think that we can manage this system, than changing it ;) .
 
 > Bills are a bunch of numbers, paper, and ideals; people are the representation of life itself
 
-You can reach me writing an email to `jarangoba@unal.edu.co` and we can talk about whatever.
+You can reach me writing an email to `jarangoba@unal.edu.co` and we can talk about whatever, here is my [blog](https://sites.google.com/unal.edu.co/jorgearango).
 
 Best Regards... `Jorge Arango`
